@@ -58,7 +58,7 @@ body{
     cursor: pointer;
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.144);
     color: hsl(0, 0%, 100%);
-    background-color:#3457D5;
+    background-color: #3457D5;
 }
 #imgBox{
     width: 300px;
