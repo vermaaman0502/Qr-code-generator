@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution
+# QR code generator solution
 
 This is a solution to the [QR code generator](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 ## Table of contents
@@ -11,7 +11,6 @@ This is a solution to the [QR code generator](https://www.frontendmentor.io/chal
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 This is a Qr code generator frontend project in which you can generate your own Qr by entering URL or text.
