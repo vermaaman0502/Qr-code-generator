@@ -1,6 +1,5 @@
 # QR code generator solution
 
-This is a solution to the [QR code generator](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 ## Table of contents
 
 - [Overview](#overview)
@@ -18,7 +17,7 @@ This is a Qr code generator frontend project in which you can generate your own 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://64be0a015ffc10202c6dc516--qr-code-generator-01.netlify.app/)
 
 
 ### Built with
@@ -27,7 +26,7 @@ This is a Qr code generator frontend project in which you can generate your own 
 - CSS custom properties
 - CSS Grid
 - Javascript
-- JQr code API
+- Qr code API
 
 
 ### What I learned
