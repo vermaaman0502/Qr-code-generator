@@ -17,7 +17,7 @@ This is a Qr code generator frontend project in which you can generate your own 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://64be0a015ffc10202c6dc516--qr-code-generator-01.netlify.app/)
+- Live Site URL: (https://64be0a015ffc10202c6dc516--qr-code-generator-01.netlify.app/)
 
 
 ### Built with
